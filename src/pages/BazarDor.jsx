@@ -17,7 +17,7 @@ const products = [
 
 const categories = ["সব", "সবজি", "মাছ", "মাংস", "চাল"];
 const districts = ["ঢাকা", "চট্টগ্রাম", "সিলেট", "রাজশাহী", "খুলনা"];
-const categoryIcons = { সব: "⊞", সবজি: "🥬", মাছ: "🐟", মাংস: "🥩", চাল: "🌾" };
+const categoryIcons = { সব: "", সবজি: "", মাছ: "", মাংস: "", চাল: "" };
 const categoryColors = { সবজি: "bg-green-500", মাছ: "bg-blue-500", মাংস: "bg-red-500", চাল: "bg-amber-500" };
 
 const TrendIcon = ({ trend }) => {
